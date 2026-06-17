@@ -37,7 +37,7 @@ Bachelor of Engineering (CSE)
 - Art and Craft
 - Learning New Technologies
 ## Contact
-GitHub: https://github.com/pragathivhegde
+GitHub: https://github.com/anushamu
 
 ## Future Goal
 Become a Data Scientist and work on AI and Data Analytics projects.
